@@ -1,2 +1,2 @@
 # Hacker-rank-solution
-It is helpfull for new commer in competetive coding to under stand the code
+It is helpful for newcomers in competitive coding to understand the codes.
