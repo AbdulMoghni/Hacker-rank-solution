@@ -1,4 +1,4 @@
-###<img src="relative/path/in/repository/to/image.svg" width="128"/>
+<img src="https://github.com/abdulmoghni007/Hacker-rank-solution/blob/main/Competetive%20Solution.png" width="1080"/>
 
 # Competetive Solution
 It is helpfull for new commer in competetive coding to under stand the code
